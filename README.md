@@ -11,4 +11,4 @@ You can create and use VMs to build your own ethical hacking virtual lab using f
 - Kali Linux http://kali.org
 - Win 10 https://developer.microsoft.com/microsoft-edge/tools/vms/
 - Android http://osboxes.org/android-x86 
-- Metasploitable https://github.com/brysonpayne/ethical-hacking
+- Metasploitable2 http://hackingforkids.com/downloads/
